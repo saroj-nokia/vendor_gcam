@@ -3,7 +3,7 @@
 ### Clone this repository ###
 
 ```bash
-git clone https://github.com/saroj-nokia/vendor_gcam.git -b A14 vendor/gcam
+git clone https://github.com/saroj-nokia/vendor_gcam.git -b 14 vendor/gcam
 ```
 
 Add this in **device.mk**: 
