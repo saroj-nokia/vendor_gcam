@@ -1,4 +1,4 @@
-## gcam for redmi note 4G (sapphire) ##
+## gcam for redmi note 13 4G (sapphire) ##
 
 ### Clone this repository ###
 
